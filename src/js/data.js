@@ -20,4 +20,4 @@ let dataSetVersion = '';
 /**
  * Image root, will be appended to the start of every image URL.
  */
-const imageRoot = '';
+const imageRoot = 'https://cdn.discordapp.com/icons/421024778783031326/e2275150953757d249d4dbe9636f0f81.png';

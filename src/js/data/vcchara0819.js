@@ -113,7 +113,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name : "Béatrice IV",
+    name : "Béatrice V",
     img :"",
     opts : {
       sagas : ["2-a"],

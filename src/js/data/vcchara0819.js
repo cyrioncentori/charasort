@@ -486,5 +486,21 @@ dataSet[dataSetVersion].characterData = [
     opts : {
       sagas : ["actions"]
     }
+  },
+  {
+    name : "Verte",
+    img : "",
+    opts : {
+      sagas : [],
+      nouvelles: true
+    }
+  },
+  {
+    name : "Sable",
+    img : "",
+    opts : {
+      sagas : [],
+      nouvelles: true
+    }
   }
   ];

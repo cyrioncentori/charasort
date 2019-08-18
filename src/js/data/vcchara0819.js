@@ -247,5 +247,244 @@ dataSet[dataSetVersion].characterData = [
     opts : {
       sagas : ["3"]
     }
+  },
+  {
+    name : "Narmad Chakir",
+    img : "",
+    opts : {
+      sagas : ["3"]
+    }
+  },
+  {
+    name : 'Lupia "Louve" Juli',
+    img : "",
+    opts : {
+      sagas : ["3"]
+    }
+  },
+  {
+    name : "Gelduin Orsan",
+    img : "",
+    opts : {
+      sagas : ["4-a", "5-c"]
+    }
+  },
+  {
+    name : "Dave",
+    img : "",
+    opts : {
+      sagas : ["4-a"]
+    }
+  },
+  {
+    name : "Pesto Lazare",
+    img : "",
+    opts : {
+      sagas : ["actions"]
+    }
+  },
+  {
+    name : "Alice M. Troid",
+    img : "",
+    opts : {
+      sagas : ["4-a", "4-b"],
+      pnj: true
+    }
+  },
+  {
+    name : "The Lone Ranger",
+    img : "",
+    opts : {
+      sagas : ["actions"]
+    }
+  },
+  {
+    name : "William Ablaye",
+    img :"",
+    opts : {
+      sagas : ["actions", "5-a"]
+    }
+  },
+  {
+    name : "Tom Algore",
+    img : "",
+    opts : {
+      sagas : ["actions"]
+    }
+  },
+  {
+    name : "Marc Silvetstone",
+    img : "",
+    opts : {
+      sagas : ["actions", "5-a", "5-b"]
+    }
+  },
+  {
+    name : "Raphaël Rousset",
+    img : "",
+    opts : {
+      sagas : ["actions", "5-a"],
+      pnj: true
+    }
+  },
+  {
+    name : "Renko Shirata",
+    img : "",
+    opts : {
+      sagas : ["actions", "5-a", "5-b", "5-c"],
+      pnj: true
+    }
+  },
+  {
+    name : "Deneb Lyrica",
+    img : "",
+    opts : {
+      sagas : ["5-a"],
+      pnj: true
+    }
+  },
+  {
+    name : "Yarolav Cirfoz",
+    img : "",
+    opts : {
+      sagas : ["actions"]
+    }
+  },
+  {
+    name : "Safyr Hérian",
+    img : "",
+    opts : {
+      sagas : ["actions"]
+    }
+  },
+  {
+    name : "Roméo Aslet",
+    img : "",
+    opts : {
+      sagas : ["actions"]
+    }
+  },
+  {
+    name : "Céleste Louva",
+    img : "",
+    opts : {
+      sagas : ["actions", "5-c"]
+    }
+  },
+  {
+    name : "Guny",
+    img : "",
+    opts : {
+      sagas : ["actions", "4-b"]
+    }
+  },
+  {
+    name : "Alcyone Lyrica",
+    img : "",
+    opts : {
+      sagas : ["5-b", "5-c"],
+      pnj: true
+    }
+  },
+  {
+    name : "Catherine Ownnard",
+    img : "",
+    opts : {
+      sagas : ["actions", "6"]
+    }
+  },
+  {
+    name : "Noto",
+    img : "",
+    opts : {
+      sagas : ["actions", "6"],
+      pnj: true
+    }
+  },
+  {
+    name : "Rukh Lyrica",
+    img : "",
+    opts : {
+      sagas : ["5-b"],
+      pnj: true
+    }
+  },
+  {
+    name : "Mireilla Ferns",
+    img : "",
+    opts : {
+      sagas : ["5-c"],
+      pnj: true
+    }
+  },
+  {
+    name : "Servin",
+    img : "",
+    opts : {
+      sagas : ["actions"]
+    }
+  },
+  {
+    name : "Yves Lajoie",
+    img : "",
+    opts : {
+      sagas : ["actions"]
+    }
+  },
+  {
+    name : "Frost",
+    img : "",
+    opts : {
+      sagas : ["actions"]
+    }
+  },
+  {
+    name : "Atlas",
+    img : "",
+    opts : {
+      sagas : ["actions"]
+    }
+  },
+  {
+    name : "Nab'wavef",
+    img : "",
+    opts : {
+      sagas : ["actions"]
+    }
+  },
+  {
+    name : "Jack Morgan",
+    img : "",
+    opts : {
+      sagas : ["actions"]
+    }
+  },
+  {
+    name : "Yiagdra Chik-Aneid",
+    img : "",
+    opts : {
+      sagas : ["actions"]
+    }
+  },
+  {
+    name : "Gabriel Taskar",
+    img : "",
+    opts : {
+      sagas : ["actions"]
+    }
+  },
+  {
+    name : "Syal Pryl",
+    img : "",
+    opts : {
+      sagas : ["actions"]
+    }
+  },
+  {
+    name : "Léon Wright",
+    img : "",
+    opts : {
+      sagas : ["actions"]
+    }
   }
   ];
